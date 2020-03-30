@@ -1,0 +1,2 @@
+
+{"error_string":["Password harus memiliki minimal: <ul>\r\n            <li>Satu huruf kecil<\/li>\r\n            <li>Satu huruf besar<\/li>\r\n            <li>Satu angka<\/li>\r\n            <li>Satu tanda khusus @ # -_ $% ^ & + = \u00a7 !?<\/li><\/ul>"],"inputerror":["password"],"status":false}
